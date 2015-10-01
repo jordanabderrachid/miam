@@ -1,0 +1,5 @@
+8392
+"Kebab de chez Didier" = 8800
+"Assiette de légumes de chez les filles" = 12
+"BigMac" = 323
+"Plat de nouilles asiatiques" = 281

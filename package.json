@@ -1,0 +1,21 @@
+{
+  "name": "miam",
+  "version": "0.0.1",
+  "description": "A CLI to established the restaurant schedule of the week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "miam",
+    "restaurant"
+  ],
+  "author": "Jordan Abderrachid <jabderrachid@gmail.com>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "miam": "index.js"
+  },
+  "private": true
+}
