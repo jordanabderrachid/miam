@@ -4,7 +4,7 @@
   "description": "A CLI to established the restaurant schedule of the week.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "keywords": [
     "CLI",
@@ -17,5 +17,9 @@
   "bin": {
     "miam": "index.js"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
 }
